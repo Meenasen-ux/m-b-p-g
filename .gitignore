@@ -1,6 +1,5 @@
+venv/
 __pycache__/
-.env
 *.pyc
-*.sqlite3
-.vscode/
-streamlit.log
+.env
+playlists.sqlite3
